@@ -8,7 +8,7 @@ Enjoy!
 
 ## link to Heroku deploy link
 
-inttxtedit.herokuapp.com
+[inttxtedit.herokuapp.com](https://inttxtedit.herokuapp.com/)
 
 ## Languages
 
