@@ -8,6 +8,8 @@ Enjoy!
 
 ## link to Heroku deploy link
 
+[inttxtedit.herokuapp.com](https://inttxtedit.herokuapp.com/)
+
 ## Languages
 
 Node.js/CSS/Javascript/mongoose/express.js/webpack/Heroku/eslint
